@@ -22,6 +22,7 @@
 		39351D3F2548F878004EA743 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		39351D4C2548F989004EA743 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		39351D4E2548FA4F004EA743 /* StringsAndInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StringsAndInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		39351D502548FAC3004EA743 /* MultilineStrings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MultilineStrings.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +86,7 @@
 			children = (
 				39351D4C2548F989004EA743 /* Variables.playground */,
 				39351D4E2548FA4F004EA743 /* StringsAndInteger.playground */,
+				39351D502548FAC3004EA743 /* MultilineStrings.playground */,
 			);
 			path = Day1;
 			sourceTree = "<group>";
