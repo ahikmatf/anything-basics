@@ -26,6 +26,7 @@
 		39351D522548FB75004EA743 /* DoublesAndBooleans.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DoublesAndBooleans.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		39351D542548FBE0004EA743 /* StringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		39351D562548FC50004EA743 /* Constants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Constants.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		39351D582548FCBE004EA743 /* TypeAnnotations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeAnnotations.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 				39351D522548FB75004EA743 /* DoublesAndBooleans.playground */,
 				39351D542548FBE0004EA743 /* StringInterpolation.playground */,
 				39351D562548FC50004EA743 /* Constants.playground */,
+				39351D582548FCBE004EA743 /* TypeAnnotations.playground */,
 			);
 			path = Day1;
 			sourceTree = "<group>";
