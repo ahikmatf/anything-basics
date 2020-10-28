@@ -20,6 +20,7 @@
 		39351D3A2548F878004EA743 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39351D3D2548F878004EA743 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		39351D3F2548F878004EA743 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39351D4C2548F989004EA743 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		39351D352548F874004EA743 /* hundred-days-of-swift-twostraws */ = {
 			isa = PBXGroup;
 			children = (
+				39351D462548F8DF004EA743 /* Part1 */,
 				39351D362548F874004EA743 /* hundred_days_of_swift_twostrawsApp.swift */,
 				39351D382548F874004EA743 /* ContentView.swift */,
 				39351D3A2548F878004EA743 /* Assets.xcassets */,
@@ -67,6 +69,22 @@
 				39351D3D2548F878004EA743 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		39351D462548F8DF004EA743 /* Part1 */ = {
+			isa = PBXGroup;
+			children = (
+				39351D472548F927004EA743 /* Day1 */,
+			);
+			path = Part1;
+			sourceTree = "<group>";
+		};
+		39351D472548F927004EA743 /* Day1 */ = {
+			isa = PBXGroup;
+			children = (
+				39351D4C2548F989004EA743 /* Variables.playground */,
+			);
+			path = Day1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
