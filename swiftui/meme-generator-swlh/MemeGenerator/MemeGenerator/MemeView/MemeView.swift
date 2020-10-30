@@ -30,7 +30,7 @@ struct MemeView: View {
                               design: .rounded))
                 .foregroundColor(.white)
                 .lineLimit(3)
-                .frame(maxHeight: .infinity, alignment: .leading)
+                .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(.leading, 10)
                 .padding(.bottom, 10)
                 .background(

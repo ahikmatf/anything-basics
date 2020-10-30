@@ -18,7 +18,7 @@ struct MemeListView: View {
             
             // for each meme in memes
             List(viewModel.memes, id: \.self) { (meme) in
-                // TODO: create our meme list item
+                MemeView(meme: meme)
             }
         }
         .onAppear {
@@ -38,6 +38,6 @@ struct MemeListView_Previews: PreviewProvider {
 
 struct MemeList_Previews: PreviewProvider {
     static var previews: some View {
-        MemeList()
+        MemeListView()
     }
 }

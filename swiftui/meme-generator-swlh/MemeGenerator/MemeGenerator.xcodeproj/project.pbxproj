@@ -15,6 +15,7 @@
 		39351D7C254B126E004EA743 /* Meme+Fetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39351D7B254B126E004EA743 /* Meme+Fetcher.swift */; };
 		39351D81254B2BE7004EA743 /* MemeListView+ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39351D80254B2BE7004EA743 /* MemeListView+ViewModel.swift */; };
 		39351D84254B3FDA004EA743 /* MemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39351D83254B3FDA004EA743 /* MemeView.swift */; };
+		39351D87254BAC00004EA743 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39351D86254BAC00004EA743 /* ImageLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		39351D7B254B126E004EA743 /* Meme+Fetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meme+Fetcher.swift"; sourceTree = "<group>"; };
 		39351D80254B2BE7004EA743 /* MemeListView+ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MemeListView+ViewModel.swift"; sourceTree = "<group>"; };
 		39351D83254B3FDA004EA743 /* MemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeView.swift; sourceTree = "<group>"; };
+		39351D86254BAC00004EA743 /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				39351D68254AD39E004EA743 /* MemeListView.swift */,
 				39351D80254B2BE7004EA743 /* MemeListView+ViewModel.swift */,
 				39351D83254B3FDA004EA743 /* MemeView.swift */,
+				39351D86254BAC00004EA743 /* ImageLoader.swift */,
 			);
 			path = MemeView;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39351D87254BAC00004EA743 /* ImageLoader.swift in Sources */,
 				39351D78254AD3D7004EA743 /* Meme.swift in Sources */,
 				39351D7C254B126E004EA743 /* Meme+Fetcher.swift in Sources */,
 				39351D84254B3FDA004EA743 /* MemeView.swift in Sources */,
